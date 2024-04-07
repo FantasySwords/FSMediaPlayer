@@ -1,2 +1,2 @@
-# FFMediaPlayer
-FFMediaPlayer
+# FSMediaPlayer
+FSMediaPlayer
